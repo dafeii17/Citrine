@@ -84,6 +84,3 @@ Index(['Dipole moment:D', 'Electronic spatial extent:\a_0^2',
     ]
 }
 ```
-# Schema
-
-A detailed discussion of the PIF schema and usage are available at [https://www.nature.com/articles/sdata201422/tables/3](https://www.nature.com/articles/sdata201422/tables/3).
