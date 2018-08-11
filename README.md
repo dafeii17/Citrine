@@ -2,28 +2,11 @@
 
 ## About
 
-Tools to serialize and deserialize to and from the [PIF](http://citrine.io/pif) schema.
-This package provides python objects for each object in the PIF schema and methods
-for serialization and deserialization.
-
-There is a companion Java library called [JPIF](https://github.com/CitrineInformatics/jpif).
-
-## Installation
-
-### Requirements
-
-* Python >= 2.7 or >= 3.3
-
-### Setup
-
-`pypif` is published on [PyPI](https://pypi.python.org/pypi/pypif), so it can be installed with `pip`:
-```shell
-$ pip install pypif
-```
+write something about 
 
 ## Example
 
-The following example creates a PIF record that saves the band gap of MgO2 as equal to 7.8 eV.
+sample input:
 
 ```
 5
@@ -36,6 +19,17 @@ H	-0.5238136345	 1.4379326443	 0.9063972942	 0.133923
 1341.307	1341.3284	1341.365	1562.6731	1562.7453	3038.3205	3151.6034	3151.6788	3151.7078
 C	C	
 InChI=1S/CH4/h1H4	InChI=1S/CH4/h1H4
+```
+
+sample input description:
+```
+input file format:
+1	Number of atoms n a
+2	Scalar properties (see Table 3)
+3,…,n a +2	Element type, coordinate (x, y, z, in Å), Mulliken partial charges (in e) on atoms
+n a +3	Harmonic vibrational frequencies (3n a −5 or 3n a -6, in cm−1)
+n a +4	SMILES strings from GDB-17 and from B3LYP relaxation
+n a +5	InChI strings for Corina and B3LYP geometries
 ```
 
 This example will serialize to the following JSON representation:
