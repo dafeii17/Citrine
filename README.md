@@ -71,7 +71,7 @@ Index(['Dipole moment:D', 'Electronic spatial extent:\a_0^2',
                 ],
                 ...
             ],
-            "units": "\u00c5",
+            "units": "Å",
             "name": "coordinate"
         }
     ],
