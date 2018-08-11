@@ -25,7 +25,7 @@ InChI=1S/CH4/h1H4	InChI=1S/CH4/h1H4
 ```
 input file format:
 1	Number of atoms n a
-2	Scalar properties
+2	Scalar properties (Detailed description: [https://www.nature.com/articles/sdata201422/tables/3](https://www.nature.com/articles/sdata201422/tables/3).)
 3,…,n a +2	Element type, coordinate (x, y, z, in Å), Mulliken partial charges (in e) on atoms
 n a +3	Harmonic vibrational frequencies (3n a −5 or 3n a -6, in cm−1)
 n a +4	SMILES strings from GDB-17 and from B3LYP relaxation
