@@ -51,7 +51,7 @@ Index(['Dipole moment:D', 'Electronic spatial extent:\a_0^2',
 ```
 ### Sample output of conversion from Pandas Dataframe to pif:
 ```
-```{
+{
     "chemicalFormula": "C1H4",
     "category": "system.chemical",
     "properties": [
