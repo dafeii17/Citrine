@@ -33,7 +33,7 @@ n a +5	InChI strings for Corina and B3LYP geometries
 ```
 #### Scalar properties discription:
 ```
-https://www.nature.com/articles/sdata201422/tables/3
+https://www.nature.com/articles/sdata201422/tables/3(https://www.nature.com/articles/sdata201422/tables/3)
 ```
 ### Sample output of conversion from File to Pandas Dataframe:
 ```
@@ -64,47 +64,6 @@ Index(['Dipole moment:D', 'Electronic spatial extent:\a_0^2',
         },
         ...
         {
-            "units": "\\frac{cal}{molK}",
-            "name": "Heat capacity at 298.15 K",
-            "scalars": 6.469
-        },
-        {
-            "units": "Ha",
-            "name": "Internal energy at 0 K",
-            "scalars": -40.47893
-        },
-        {
-            "units": "Ha",
-            "name": "Internal energy at 298.15 K",
-            "scalars": -40.476062
-        },
-        {
-            "units": "\\a_0^3",
-            "name": "Isotropic polarizability",
-            "scalars": 13.21
-        },
-        {
-            "vectors": [
-                [
-                    "C",
-                    -0.535689
-                ],
-                ...
-            ],
-            "units": "e",
-            "name": "Mulliken partial charges"
-        },
-        {
-            "units": "GHz",
-            "name": "Rotational constant A",
-            "scalars": 157.7118
-        },
-        {
-            "units": "Ha",
-            "name": "Zero point vibrational energy",
-            "scalars": 0.044749
-        },
-        {
             "vectors": [
                 [
                     "C",
@@ -125,26 +84,8 @@ Index(['Dipole moment:D', 'Electronic spatial extent:\a_0^2',
         },
         ...
     ]
-}{
-```
-This example will serialize to the following JSON representation:
-
-```json
-{
-    "category": "system.chemical",
-    "chemicalFormula": "MgO2",
-    "properties": {
-        "units": "eV",
-        "name": "Band gap",
-        "scalars": [
-            {
-                "value": 7.8
-            }
-        ]
-    }
 }
 ```
-
 # Schema
 
 A detailed discussion of the PIF schema and usage are available at [http://citrine.io/pif](http://citrine.io/pif).
