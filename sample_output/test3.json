@@ -1,0 +1,4042 @@
+{
+    "ids": [
+        {
+            "name": "InChI_B3LYP",
+            "value": "InChI=1S/CH4/h1H4"
+        },
+        {
+            "name": "InChI_Corina",
+            "value": "InChI=1S/CH4/h1H4"
+        },
+        {
+            "name": "SMILE_B3LYP",
+            "value": "C"
+        },
+        {
+            "name": "SMILE_GDB-17",
+            "value": "C"
+        },
+        {
+            "name": "identifier",
+            "value": "1"
+        }
+    ],
+    "chemicalFormula": "C1H4",
+    "category": "system.chemical",
+    "properties": [
+        {
+            "scalars": 0.0,
+            "name": "Dipole moment",
+            "units": "D"
+        },
+        {
+            "scalars": 35.3641,
+            "name": "Electronic spatial extent",
+            "units": "\\a_0^2"
+        },
+        {
+            "scalars": -0.3877,
+            "name": "Energy of HOMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.1171,
+            "name": "Energy of LUMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -40.475117,
+            "name": "Enthalpy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -40.498597,
+            "name": "Free energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.5048,
+            "name": "Gap (\u03f5LUMO\u2212\u03f5HOMO)",
+            "units": "Ha"
+        },
+        {
+            "scalars": [
+                1341.307,
+                1341.3284,
+                1341.365,
+                1562.6731,
+                1562.7453,
+                3038.3205,
+                3151.6034,
+                3151.6788,
+                3151.7078
+            ],
+            "name": "Harmonic vibrational frequency",
+            "units": "cm-1"
+        },
+        {
+            "scalars": 6.469,
+            "name": "Heat capacity at 298.15 K",
+            "units": "\\frac{cal}{molK}"
+        },
+        {
+            "scalars": -40.47893,
+            "name": "Internal energy at 0 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -40.476062,
+            "name": "Internal energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 13.21,
+            "name": "Isotropic polarizability",
+            "units": "\\a_0^3"
+        },
+        {
+            "name": "Mulliken partial charges",
+            "units": "e",
+            "vectors": [
+                [
+                    "C",
+                    -0.535689
+                ],
+                [
+                    "H",
+                    0.133921
+                ],
+                [
+                    "H",
+                    0.133922
+                ],
+                [
+                    "H",
+                    0.133923
+                ],
+                [
+                    "H",
+                    0.133923
+                ]
+            ]
+        },
+        {
+            "scalars": 157.7118,
+            "name": "Rotational constant A",
+            "units": "GHz"
+        },
+        {
+            "scalars": 157.70997,
+            "name": "Rotational constant B",
+            "units": "GHz"
+        },
+        {
+            "scalars": 157.70699,
+            "name": "Rotational constant C",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.044749,
+            "name": "Zero point vibrational energy",
+            "units": "Ha"
+        },
+        {
+            "name": "coordinate",
+            "units": "\u00c5",
+            "vectors": [
+                [
+                    "C",
+                    -0.0126981359,
+                    1.0858041578,
+                    0.0080009958
+                ],
+                [
+                    "H",
+                    0.002150416,
+                    -0.0060313176,
+                    0.0019761204
+                ],
+                [
+                    "H",
+                    1.0117308433,
+                    1.4637511618,
+                    0.0002765748
+                ],
+                [
+                    "H",
+                    -0.540815069,
+                    1.4475266138,
+                    -0.8766437152
+                ],
+                [
+                    "H",
+                    -0.5238136345,
+                    1.4379326443,
+                    0.9063972942
+                ]
+            ]
+        }
+    ]
+}{
+    "ids": [
+        {
+            "name": "InChI_B3LYP",
+            "value": "InChI=1S/H3N/h1H3"
+        },
+        {
+            "name": "InChI_Corina",
+            "value": "InChI=1S/H3N/h1H3"
+        },
+        {
+            "name": "SMILE_B3LYP",
+            "value": "N"
+        },
+        {
+            "name": "SMILE_GDB-17",
+            "value": "N"
+        },
+        {
+            "name": "identifier",
+            "value": "2"
+        }
+    ],
+    "chemicalFormula": "H3N1",
+    "category": "system.chemical",
+    "properties": [
+        {
+            "scalars": 1.6256,
+            "name": "Dipole moment",
+            "units": "D"
+        },
+        {
+            "scalars": 26.1563,
+            "name": "Electronic spatial extent",
+            "units": "\\a_0^2"
+        },
+        {
+            "scalars": -0.257,
+            "name": "Energy of HOMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.0829,
+            "name": "Energy of LUMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -56.522082,
+            "name": "Enthalpy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -56.544961,
+            "name": "Free energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.3399,
+            "name": "Gap (\u03f5LUMO\u2212\u03f5HOMO)",
+            "units": "Ha"
+        },
+        {
+            "scalars": [
+                1103.8733,
+                1684.1158,
+                1684.3072,
+                3458.7145,
+                3575.2414,
+                3575.3343
+            ],
+            "name": "Harmonic vibrational frequency",
+            "units": "cm-1"
+        },
+        {
+            "scalars": 6.316,
+            "name": "Heat capacity at 298.15 K",
+            "units": "\\frac{cal}{molK}"
+        },
+        {
+            "scalars": -56.525887,
+            "name": "Internal energy at 0 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -56.523026,
+            "name": "Internal energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 9.46,
+            "name": "Isotropic polarizability",
+            "units": "\\a_0^3"
+        },
+        {
+            "name": "Mulliken partial charges",
+            "units": "e",
+            "vectors": [
+                [
+                    "N",
+                    -0.707143
+                ],
+                [
+                    "H",
+                    0.235712
+                ],
+                [
+                    "H",
+                    0.235712
+                ],
+                [
+                    "H",
+                    0.23572
+                ]
+            ]
+        },
+        {
+            "scalars": 293.60975,
+            "name": "Rotational constant A",
+            "units": "GHz"
+        },
+        {
+            "scalars": 293.54111,
+            "name": "Rotational constant B",
+            "units": "GHz"
+        },
+        {
+            "scalars": 191.39397,
+            "name": "Rotational constant C",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.034358,
+            "name": "Zero point vibrational energy",
+            "units": "Ha"
+        },
+        {
+            "name": "coordinate",
+            "units": "\u00c5",
+            "vectors": [
+                [
+                    "N",
+                    -0.0404260543,
+                    1.0241077531,
+                    0.0625637998
+                ],
+                [
+                    "H",
+                    0.0172574639,
+                    0.0125452063,
+                    -0.0273771593
+                ],
+                [
+                    "H",
+                    0.9157893661,
+                    1.3587451948,
+                    -0.0287577581
+                ],
+                [
+                    "H",
+                    -0.5202777357,
+                    1.3435321258,
+                    -0.7755426124
+                ]
+            ]
+        }
+    ]
+}{
+    "ids": [
+        {
+            "name": "InChI_B3LYP",
+            "value": "InChI=1S/H2O/h1H2"
+        },
+        {
+            "name": "InChI_Corina",
+            "value": "InChI=1S/H2O/h1H2"
+        },
+        {
+            "name": "SMILE_B3LYP",
+            "value": "O"
+        },
+        {
+            "name": "SMILE_GDB-17",
+            "value": "O"
+        },
+        {
+            "name": "identifier",
+            "value": "3"
+        }
+    ],
+    "chemicalFormula": "H2O1",
+    "category": "system.chemical",
+    "properties": [
+        {
+            "scalars": 1.8511,
+            "name": "Dipole moment",
+            "units": "D"
+        },
+        {
+            "scalars": 19.0002,
+            "name": "Electronic spatial extent",
+            "units": "\\a_0^2"
+        },
+        {
+            "scalars": -0.2928,
+            "name": "Energy of HOMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.0687,
+            "name": "Energy of LUMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -76.400922,
+            "name": "Enthalpy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -76.422349,
+            "name": "Free energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.3615,
+            "name": "Gap (\u03f5LUMO\u2212\u03f5HOMO)",
+            "units": "Ha"
+        },
+        {
+            "scalars": [
+                1671.4222,
+                3803.6305,
+                3907.698
+            ],
+            "name": "Harmonic vibrational frequency",
+            "units": "cm-1"
+        },
+        {
+            "scalars": 6.002,
+            "name": "Heat capacity at 298.15 K",
+            "units": "\\frac{cal}{molK}"
+        },
+        {
+            "scalars": -76.404702,
+            "name": "Internal energy at 0 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -76.401867,
+            "name": "Internal energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 6.31,
+            "name": "Isotropic polarizability",
+            "units": "\\a_0^3"
+        },
+        {
+            "name": "Mulliken partial charges",
+            "units": "e",
+            "vectors": [
+                [
+                    "O",
+                    -0.589706
+                ],
+                [
+                    "H",
+                    0.294853
+                ],
+                [
+                    "H",
+                    0.294853
+                ]
+            ]
+        },
+        {
+            "scalars": 799.58812,
+            "name": "Rotational constant A",
+            "units": "GHz"
+        },
+        {
+            "scalars": 437.90386,
+            "name": "Rotational constant B",
+            "units": "GHz"
+        },
+        {
+            "scalars": 282.94545,
+            "name": "Rotational constant C",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.021375,
+            "name": "Zero point vibrational energy",
+            "units": "Ha"
+        },
+        {
+            "name": "coordinate",
+            "units": "\u00c5",
+            "vectors": [
+                [
+                    "O",
+                    -0.0343604951,
+                    0.9775395708,
+                    0.0076015923
+                ],
+                [
+                    "H",
+                    0.0647664923,
+                    0.0205721989,
+                    0.0015346341
+                ],
+                [
+                    "H",
+                    0.8717903737,
+                    1.3007924048,
+                    0.0006931336
+                ]
+            ]
+        }
+    ]
+}{
+    "ids": [
+        {
+            "name": "InChI_B3LYP",
+            "value": "InChI=1S/C2H2/c1-2/h1-2H"
+        },
+        {
+            "name": "InChI_Corina",
+            "value": "InChI=1S/C2H2/c1-2/h1-2H"
+        },
+        {
+            "name": "SMILE_B3LYP",
+            "value": "C#C"
+        },
+        {
+            "name": "SMILE_GDB-17",
+            "value": "C#C"
+        },
+        {
+            "name": "identifier",
+            "value": "4"
+        }
+    ],
+    "chemicalFormula": "C2H2",
+    "category": "system.chemical",
+    "properties": [
+        {
+            "scalars": 0.0,
+            "name": "Dipole moment",
+            "units": "D"
+        },
+        {
+            "scalars": 59.5248,
+            "name": "Electronic spatial extent",
+            "units": "\\a_0^2"
+        },
+        {
+            "scalars": -0.2845,
+            "name": "Energy of HOMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.0506,
+            "name": "Energy of LUMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -77.304583,
+            "name": "Enthalpy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -77.327429,
+            "name": "Free energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.3351,
+            "name": "Gap (\u03f5LUMO\u2212\u03f5HOMO)",
+            "units": "Ha"
+        },
+        {
+            "scalars": [
+                549.7648,
+                549.7648,
+                795.2713,
+                795.2713,
+                2078.1131,
+                3455.8096,
+                3557.8599
+            ],
+            "name": "Harmonic vibrational frequency",
+            "units": "cm-1"
+        },
+        {
+            "scalars": 8.574,
+            "name": "Heat capacity at 298.15 K",
+            "units": "\\frac{cal}{molK}"
+        },
+        {
+            "scalars": -77.308427,
+            "name": "Internal energy at 0 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -77.305527,
+            "name": "Internal energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 16.28,
+            "name": "Isotropic polarizability",
+            "units": "\\a_0^3"
+        },
+        {
+            "name": "Mulliken partial charges",
+            "units": "e",
+            "vectors": [
+                [
+                    "C",
+                    -0.207019
+                ],
+                [
+                    "C",
+                    -0.207019
+                ],
+                [
+                    "H",
+                    0.207019
+                ],
+                [
+                    "H",
+                    0.207019
+                ]
+            ]
+        },
+        {
+            "scalars": 0.0,
+            "name": "Rotational constant A",
+            "units": "GHz"
+        },
+        {
+            "scalars": 35.6100361,
+            "name": "Rotational constant B",
+            "units": "GHz"
+        },
+        {
+            "scalars": 35.6100361,
+            "name": "Rotational constant C",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.026841,
+            "name": "Zero point vibrational energy",
+            "units": "Ha"
+        },
+        {
+            "name": "coordinate",
+            "units": "\u00c5",
+            "vectors": [
+                [
+                    "C",
+                    0.5995394918,
+                    0.0,
+                    1.0
+                ],
+                [
+                    "C",
+                    -0.5995394918,
+                    0.0,
+                    1.0
+                ],
+                [
+                    "H",
+                    -1.6616385861,
+                    0.0,
+                    1.0
+                ],
+                [
+                    "H",
+                    1.6616385861,
+                    0.0,
+                    1.0
+                ]
+            ]
+        }
+    ]
+}{
+    "ids": [
+        {
+            "name": "InChI_B3LYP",
+            "value": "InChI=1S/C6H9NO2/c1-4-2-7-3-5(4)6(8)9/h2-3,7H2,1H3"
+        },
+        {
+            "name": "InChI_Corina",
+            "value": "InChI=1S/C6H9NO2/c1-4-2-7-3-5(4)6(8)9/h7H,2-3H2,1H3,(H,8,9)"
+        },
+        {
+            "name": "SMILE_B3LYP",
+            "value": "CC1=C(C[NH2]C1)C(=O)[O]"
+        },
+        {
+            "name": "SMILE_GDB-17",
+            "value": "CC1=C(C[NH2+]C1)C([O-])=O"
+        },
+        {
+            "name": "identifier",
+            "value": "54611"
+        }
+    ],
+    "chemicalFormula": "C6H9N1O2",
+    "category": "system.chemical",
+    "properties": [
+        {
+            "scalars": 14.4858,
+            "name": "Dipole moment",
+            "units": "D"
+        },
+        {
+            "scalars": 1219.9765,
+            "name": "Electronic spatial extent",
+            "units": "\\a_0^2"
+        },
+        {
+            "scalars": -0.1736,
+            "name": "Energy of HOMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -0.0219,
+            "name": "Energy of LUMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -439.059564,
+            "name": "Enthalpy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -439.10341,
+            "name": "Free energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.1517,
+            "name": "Gap (\u03f5LUMO\u2212\u03f5HOMO)",
+            "units": "Ha"
+        },
+        {
+            "scalars": [
+                57.1855,
+                111.4948,
+                152.3795,
+                197.4156,
+                208.7858,
+                250.0301,
+                296.0096,
+                382.8211,
+                459.1914,
+                500.3592,
+                596.5616,
+                681.3229,
+                771.4113,
+                780.3505,
+                787.9874,
+                860.0168,
+                893.1043,
+                930.6465,
+                963.7382,
+                1002.912,
+                1074.3185,
+                1087.6742,
+                1126.5441,
+                1134.0307,
+                1202.5522,
+                1235.7611,
+                1258.4985,
+                1307.0528,
+                1332.5759,
+                1346.9443,
+                1365.5044,
+                1398.9148,
+                1470.4841,
+                1479.7429,
+                1502.3042,
+                1506.0952,
+                1632.3865,
+                1713.5158,
+                1762.9382,
+                3005.1895,
+                3023.6376,
+                3055.319,
+                3075.4314,
+                3081.7633,
+                3124.0325,
+                3159.6202,
+                3462.204,
+                3532.9841
+            ],
+            "name": "Harmonic vibrational frequency",
+            "units": "cm-1"
+        },
+        {
+            "scalars": 31.975,
+            "name": "Heat capacity at 298.15 K",
+            "units": "\\frac{cal}{molK}"
+        },
+        {
+            "scalars": -439.069339,
+            "name": "Internal energy at 0 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -439.060508,
+            "name": "Internal energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 78.07,
+            "name": "Isotropic polarizability",
+            "units": "\\a_0^3"
+        },
+        {
+            "name": "Mulliken partial charges",
+            "units": "e",
+            "vectors": [
+                [
+                    "C",
+                    -0.511129
+                ],
+                [
+                    "C",
+                    0.175308
+                ],
+                [
+                    "C",
+                    0.150877
+                ],
+                [
+                    "C",
+                    -0.29291
+                ],
+                [
+                    "N",
+                    -0.272519
+                ],
+                [
+                    "H",
+                    0.301857
+                ],
+                [
+                    "H",
+                    0.313655
+                ],
+                [
+                    "C",
+                    -0.292615
+                ],
+                [
+                    "C",
+                    0.297018
+                ],
+                [
+                    "O",
+                    -0.456226
+                ],
+                [
+                    "O",
+                    -0.479932
+                ],
+                [
+                    "H",
+                    0.108137
+                ],
+                [
+                    "H",
+                    0.204703
+                ],
+                [
+                    "H",
+                    0.115129
+                ],
+                [
+                    "H",
+                    0.164445
+                ],
+                [
+                    "H",
+                    0.176158
+                ],
+                [
+                    "H",
+                    0.146177
+                ],
+                [
+                    "H",
+                    0.151866
+                ]
+            ]
+        },
+        {
+            "scalars": 2.44851,
+            "name": "Rotational constant A",
+            "units": "GHz"
+        },
+        {
+            "scalars": 1.45107,
+            "name": "Rotational constant B",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.9366,
+            "name": "Rotational constant C",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.148859,
+            "name": "Zero point vibrational energy",
+            "units": "Ha"
+        },
+        {
+            "name": "coordinate",
+            "units": "\u00c5",
+            "vectors": [
+                [
+                    "C",
+                    0.0063007424,
+                    1.5336886164,
+                    0.1462500911
+                ],
+                [
+                    "C",
+                    0.0510629716,
+                    0.0438080985,
+                    0.038063935
+                ],
+                [
+                    "C",
+                    0.0488966166,
+                    -0.685471267,
+                    -1.084298583
+                ],
+                [
+                    "C",
+                    0.0554186577,
+                    -2.1560842846,
+                    -0.8038007719
+                ],
+                [
+                    "N",
+                    0.4205599613,
+                    -2.1989376073,
+                    0.6995346864
+                ],
+                [
+                    "H",
+                    -0.032922194,
+                    -2.9641779178,
+                    1.1981257216
+                ],
+                [
+                    "H",
+                    1.4272741527,
+                    -2.333549176,
+                    0.7803105535
+                ],
+                [
+                    "C",
+                    0.057494931,
+                    -0.8327057885,
+                    1.2675099391
+                ],
+                [
+                    "C",
+                    -0.0169367818,
+                    -0.301033248,
+                    -2.5812035211
+                ],
+                [
+                    "O",
+                    0.019982862,
+                    0.9068323511,
+                    -2.8524597085
+                ],
+                [
+                    "O",
+                    -0.1057965308,
+                    -1.3279591649,
+                    -3.2903650574
+                ],
+                [
+                    "H",
+                    0.8607895541,
+                    1.9213476439,
+                    0.7164295873
+                ],
+                [
+                    "H",
+                    0.019279622,
+                    1.9351863186,
+                    -0.8702957262
+                ],
+                [
+                    "H",
+                    -0.9017919306,
+                    1.8705595461,
+                    0.6636513506
+                ],
+                [
+                    "H",
+                    -0.9209462221,
+                    -2.6336624963,
+                    -0.9236860968
+                ],
+                [
+                    "H",
+                    0.7920664171,
+                    -2.7185520031,
+                    -1.3755778877
+                ],
+                [
+                    "H",
+                    0.7908900181,
+                    -0.5637166205,
+                    2.0349991699
+                ],
+                [
+                    "H",
+                    -0.9222305472,
+                    -0.9245371804,
+                    1.754448388
+                ]
+            ]
+        }
+    ]
+}{
+    "ids": [
+        {
+            "name": "InChI_B3LYP",
+            "value": "InChI=1S/C6H9NO2/c1-4-2-9-3-5(4)6(7)8/h2-3H2,1H3,(H2,7,8)"
+        },
+        {
+            "name": "InChI_Corina",
+            "value": "InChI=1S/C6H9NO2/c1-4-2-9-3-5(4)6(7)8/h2-3H2,1H3,(H2,7,8)"
+        },
+        {
+            "name": "SMILE_B3LYP",
+            "value": "CC1=C(COC1)C(=O)N"
+        },
+        {
+            "name": "SMILE_GDB-17",
+            "value": "CC1=C(COC1)C(N)=O"
+        },
+        {
+            "name": "identifier",
+            "value": "54612"
+        }
+    ],
+    "chemicalFormula": "C6H9N1O2",
+    "category": "system.chemical",
+    "properties": [
+        {
+            "scalars": 1.6802,
+            "name": "Dipole moment",
+            "units": "D"
+        },
+        {
+            "scalars": 1228.606,
+            "name": "Electronic spatial extent",
+            "units": "\\a_0^2"
+        },
+        {
+            "scalars": -0.2376,
+            "name": "Energy of HOMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -0.03,
+            "name": "Energy of LUMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -439.120502,
+            "name": "Enthalpy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -439.165692,
+            "name": "Free energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.2076,
+            "name": "Gap (\u03f5LUMO\u2212\u03f5HOMO)",
+            "units": "Ha"
+        },
+        {
+            "scalars": [
+                46.5283,
+                99.919,
+                128.4746,
+                158.835,
+                210.0283,
+                240.6942,
+                281.909,
+                310.1226,
+                411.7255,
+                463.3478,
+                477.9102,
+                574.6568,
+                624.3843,
+                664.2,
+                776.3173,
+                817.6632,
+                939.2243,
+                959.722,
+                961.1643,
+                1050.757,
+                1063.2556,
+                1080.3247,
+                1095.5529,
+                1131.5116,
+                1155.0827,
+                1180.5495,
+                1233.0306,
+                1270.2705,
+                1344.0936,
+                1382.3518,
+                1397.0337,
+                1406.0293,
+                1471.0891,
+                1496.6951,
+                1512.293,
+                1534.2326,
+                1620.5344,
+                1713.3015,
+                1767.1915,
+                2941.4633,
+                2966.3886,
+                2978.265,
+                2982.604,
+                3021.6589,
+                3064.8995,
+                3174.2022,
+                3594.0814,
+                3725.5358
+            ],
+            "name": "Harmonic vibrational frequency",
+            "units": "cm-1"
+        },
+        {
+            "scalars": 33.456,
+            "name": "Heat capacity at 298.15 K",
+            "units": "\\frac{cal}{molK}"
+        },
+        {
+            "scalars": -439.13085,
+            "name": "Internal energy at 0 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -439.121446,
+            "name": "Internal energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 77.43,
+            "name": "Isotropic polarizability",
+            "units": "\\a_0^3"
+        },
+        {
+            "name": "Mulliken partial charges",
+            "units": "e",
+            "vectors": [
+                [
+                    "C",
+                    -0.509575
+                ],
+                [
+                    "C",
+                    0.184042
+                ],
+                [
+                    "C",
+                    0.108173
+                ],
+                [
+                    "C",
+                    -0.179472
+                ],
+                [
+                    "O",
+                    -0.266019
+                ],
+                [
+                    "C",
+                    -0.139385
+                ],
+                [
+                    "C",
+                    0.318443
+                ],
+                [
+                    "N",
+                    -0.534804
+                ],
+                [
+                    "O",
+                    -0.369615
+                ],
+                [
+                    "H",
+                    0.127823
+                ],
+                [
+                    "H",
+                    0.130921
+                ],
+                [
+                    "H",
+                    0.179798
+                ],
+                [
+                    "H",
+                    0.096659
+                ],
+                [
+                    "H",
+                    0.112299
+                ],
+                [
+                    "H",
+                    0.110622
+                ],
+                [
+                    "H",
+                    0.109253
+                ],
+                [
+                    "H",
+                    0.260248
+                ],
+                [
+                    "H",
+                    0.26059
+                ]
+            ]
+        },
+        {
+            "scalars": 2.50118,
+            "name": "Rotational constant A",
+            "units": "GHz"
+        },
+        {
+            "scalars": 1.43209,
+            "name": "Rotational constant B",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.92758,
+            "name": "Rotational constant C",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.146944,
+            "name": "Zero point vibrational energy",
+            "units": "Ha"
+        },
+        {
+            "name": "coordinate",
+            "units": "\u00c5",
+            "vectors": [
+                [
+                    "C",
+                    0.0690069293,
+                    1.5103499541,
+                    0.0268158079
+                ],
+                [
+                    "C",
+                    -0.0256076096,
+                    0.0238305111,
+                    -0.0584958546
+                ],
+                [
+                    "C",
+                    -1.101461099,
+                    -0.7770075485,
+                    -0.0497911597
+                ],
+                [
+                    "C",
+                    -0.6524414001,
+                    -2.2170533253,
+                    -0.1671850965
+                ],
+                [
+                    "O",
+                    0.7655326138,
+                    -2.17491224,
+                    -0.2410758909
+                ],
+                [
+                    "C",
+                    1.2101901698,
+                    -0.8274521509,
+                    -0.1745047194
+                ],
+                [
+                    "C",
+                    -2.5222283707,
+                    -0.3545404982,
+                    0.0461320461
+                ],
+                [
+                    "N",
+                    -3.4244948385,
+                    -1.3883048287,
+                    0.1092192614
+                ],
+                [
+                    "O",
+                    -2.894961209,
+                    0.8080672448,
+                    0.0412371139
+                ],
+                [
+                    "H",
+                    0.6894826721,
+                    1.8038524797,
+                    0.8831783097
+                ],
+                [
+                    "H",
+                    0.5662744397,
+                    1.9099281629,
+                    -0.8663318298
+                ],
+                [
+                    "H",
+                    -0.9181237633,
+                    1.9589917178,
+                    0.1175291464
+                ],
+                [
+                    "H",
+                    -0.9548078933,
+                    -2.8270563263,
+                    0.7022559041
+                ],
+                [
+                    "H",
+                    -1.0584903359,
+                    -2.7095808049,
+                    -1.0652103769
+                ],
+                [
+                    "H",
+                    1.7937657851,
+                    -0.5751018492,
+                    -1.0749860498
+                ],
+                [
+                    "H",
+                    1.8810667845,
+                    -0.6895167689,
+                    0.689450785
+                ],
+                [
+                    "H",
+                    -3.1433257767,
+                    -2.3277780592,
+                    0.3319227551
+                ],
+                [
+                    "H",
+                    -4.3828877281,
+                    -1.1338526303,
+                    0.2887952081
+                ]
+            ]
+        }
+    ]
+}{
+    "ids": [
+        {
+            "name": "InChI_B3LYP",
+            "value": "InChI=1S/C6H10N2O/c7-5-3-1-2-4(5)6(8)9/h1-3,7H2,(H2,8,9)"
+        },
+        {
+            "name": "InChI_Corina",
+            "value": "InChI=1S/C6H10N2O/c7-5-3-1-2-4(5)6(8)9/h1-3,7H2,(H2,8,9)"
+        },
+        {
+            "name": "SMILE_B3LYP",
+            "value": "NC(=O)C1=C(N)CCC1"
+        },
+        {
+            "name": "SMILE_GDB-17",
+            "value": "NC(=O)C1=C(N)CCC1"
+        },
+        {
+            "name": "identifier",
+            "value": "54613"
+        }
+    ],
+    "chemicalFormula": "C6H10N2O1",
+    "category": "system.chemical",
+    "properties": [
+        {
+            "scalars": 2.5086,
+            "name": "Dipole moment",
+            "units": "D"
+        },
+        {
+            "scalars": 1227.2629,
+            "name": "Electronic spatial extent",
+            "units": "\\a_0^2"
+        },
+        {
+            "scalars": -0.1933,
+            "name": "Energy of HOMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.0025,
+            "name": "Energy of LUMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -419.269543,
+            "name": "Enthalpy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -419.312737,
+            "name": "Free energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.1958,
+            "name": "Gap (\u03f5LUMO\u2212\u03f5HOMO)",
+            "units": "Ha"
+        },
+        {
+            "scalars": [
+                102.0997,
+                131.7732,
+                165.8573,
+                214.8698,
+                256.4441,
+                319.5086,
+                336.7618,
+                352.7348,
+                437.0935,
+                489.1479,
+                518.3957,
+                562.6834,
+                612.4246,
+                655.1559,
+                704.6276,
+                719.5554,
+                790.6647,
+                854.4152,
+                906.144,
+                922.9122,
+                965.7134,
+                1020.956,
+                1062.9251,
+                1084.5462,
+                1124.2306,
+                1158.8902,
+                1202.1509,
+                1233.0459,
+                1247.7142,
+                1306.9317,
+                1328.1938,
+                1339.4327,
+                1376.0225,
+                1449.0139,
+                1478.3777,
+                1493.9326,
+                1514.9127,
+                1564.7621,
+                1613.7653,
+                1671.4546,
+                1722.4101,
+                2970.7941,
+                3015.356,
+                3029.9076,
+                3049.7572,
+                3062.9088,
+                3103.7629,
+                3487.5239,
+                3591.7164,
+                3696.2495,
+                3720.501
+            ],
+            "name": "Harmonic vibrational frequency",
+            "units": "cm-1"
+        },
+        {
+            "scalars": 34.268,
+            "name": "Heat capacity at 298.15 K",
+            "units": "\\frac{cal}{molK}"
+        },
+        {
+            "scalars": -419.279427,
+            "name": "Internal energy at 0 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -419.270488,
+            "name": "Internal energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 81.92,
+            "name": "Isotropic polarizability",
+            "units": "\\a_0^3"
+        },
+        {
+            "name": "Mulliken partial charges",
+            "units": "e",
+            "vectors": [
+                [
+                    "N",
+                    -0.542844
+                ],
+                [
+                    "C",
+                    0.302008
+                ],
+                [
+                    "O",
+                    -0.423992
+                ],
+                [
+                    "C",
+                    0.137365
+                ],
+                [
+                    "C",
+                    0.312729
+                ],
+                [
+                    "N",
+                    -0.58488
+                ],
+                [
+                    "C",
+                    -0.303037
+                ],
+                [
+                    "C",
+                    -0.210238
+                ],
+                [
+                    "C",
+                    -0.338207
+                ],
+                [
+                    "H",
+                    0.250887
+                ],
+                [
+                    "H",
+                    0.251428
+                ],
+                [
+                    "H",
+                    0.280494
+                ],
+                [
+                    "H",
+                    0.247778
+                ],
+                [
+                    "H",
+                    0.119616
+                ],
+                [
+                    "H",
+                    0.102931
+                ],
+                [
+                    "H",
+                    0.097455
+                ],
+                [
+                    "H",
+                    0.109629
+                ],
+                [
+                    "H",
+                    0.098127
+                ],
+                [
+                    "H",
+                    0.092753
+                ]
+            ]
+        },
+        {
+            "scalars": 2.57321,
+            "name": "Rotational constant A",
+            "units": "GHz"
+        },
+        {
+            "scalars": 1.44212,
+            "name": "Rotational constant B",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.94608,
+            "name": "Rotational constant C",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.16116,
+            "name": "Zero point vibrational energy",
+            "units": "Ha"
+        },
+        {
+            "name": "coordinate",
+            "units": "\u00c5",
+            "vectors": [
+                [
+                    "N",
+                    0.005998482,
+                    1.3650040685,
+                    0.1167085483
+                ],
+                [
+                    "C",
+                    0.0461255953,
+                    -0.012263285,
+                    0.0753161621
+                ],
+                [
+                    "O",
+                    1.1347068307,
+                    -0.5993874335,
+                    0.0883120765
+                ],
+                [
+                    "C",
+                    -1.2342021853,
+                    -0.7016299208,
+                    0.0646498509
+                ],
+                [
+                    "C",
+                    -1.3192834595,
+                    -2.064120262,
+                    0.0202105929
+                ],
+                [
+                    "N",
+                    -0.2875864813,
+                    -2.9315351737,
+                    -0.0724308127
+                ],
+                [
+                    "C",
+                    -2.7555308286,
+                    -2.5290955956,
+                    -0.0088960124
+                ],
+                [
+                    "C",
+                    -3.5414974607,
+                    -1.2673113171,
+                    0.4114671624
+                ],
+                [
+                    "C",
+                    -2.6132988101,
+                    -0.0743128279,
+                    0.0656636792
+                ],
+                [
+                    "H",
+                    0.8848266537,
+                    1.830019138,
+                    -0.0476109062
+                ],
+                [
+                    "H",
+                    -0.8271419039,
+                    1.8531048453,
+                    -0.1656778481
+                ],
+                [
+                    "H",
+                    0.6316241702,
+                    -2.5148206265,
+                    0.0405781012
+                ],
+                [
+                    "H",
+                    -0.4297594358,
+                    -3.9021334206,
+                    0.1459104765
+                ],
+                [
+                    "H",
+                    -3.0135222821,
+                    -2.8567270102,
+                    -1.0254421223
+                ],
+                [
+                    "H",
+                    -2.9330273317,
+                    -3.3866489132,
+                    0.650794172
+                ],
+                [
+                    "H",
+                    -4.5205819937,
+                    -1.2000375197,
+                    -0.0692063879
+                ],
+                [
+                    "H",
+                    -3.7091061794,
+                    -1.2912062588,
+                    1.4925798065
+                ],
+                [
+                    "H",
+                    -2.71996223,
+                    0.7369961274,
+                    0.796401209
+                ],
+                [
+                    "H",
+                    -2.8756794497,
+                    0.3536840554,
+                    -0.9150274379
+                ]
+            ]
+        }
+    ]
+}{
+    "ids": [
+        {
+            "name": "InChI_B3LYP",
+            "value": "InChI=1S/C5H8N2O2/c6-4-2-9-1-3(4)5(7)8/h1-2,6H2,(H2,7,8)"
+        },
+        {
+            "name": "InChI_Corina",
+            "value": "InChI=1S/C5H8N2O2/c6-4-2-9-1-3(4)5(7)8/h1-2,6H2,(H2,7,8)"
+        },
+        {
+            "name": "SMILE_B3LYP",
+            "value": "NC(=O)C1=C(N)COC1"
+        },
+        {
+            "name": "SMILE_GDB-17",
+            "value": "NC(=O)C1=C(N)COC1"
+        },
+        {
+            "name": "identifier",
+            "value": "54614"
+        }
+    ],
+    "chemicalFormula": "C5H8N2O2",
+    "category": "system.chemical",
+    "properties": [
+        {
+            "scalars": 0.7122,
+            "name": "Dipole moment",
+            "units": "D"
+        },
+        {
+            "scalars": 1182.3004,
+            "name": "Electronic spatial extent",
+            "units": "\\a_0^2"
+        },
+        {
+            "scalars": -0.2054,
+            "name": "Energy of HOMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -0.0072,
+            "name": "Energy of LUMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -455.182897,
+            "name": "Enthalpy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -455.226744,
+            "name": "Free energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.1982,
+            "name": "Gap (\u03f5LUMO\u2212\u03f5HOMO)",
+            "units": "Ha"
+        },
+        {
+            "scalars": [
+                72.372,
+                100.5856,
+                148.3677,
+                199.7751,
+                237.5854,
+                308.6784,
+                327.9845,
+                339.4633,
+                435.11,
+                489.212,
+                512.9649,
+                556.3923,
+                647.7755,
+                668.1179,
+                687.1797,
+                784.688,
+                828.3331,
+                942.5754,
+                977.8281,
+                1025.6193,
+                1070.2492,
+                1086.71,
+                1101.0544,
+                1165.5447,
+                1170.1418,
+                1223.6542,
+                1242.2492,
+                1336.9317,
+                1377.6501,
+                1396.4335,
+                1464.467,
+                1517.3057,
+                1543.1463,
+                1577.6875,
+                1620.6845,
+                1687.7521,
+                1734.1581,
+                2942.3809,
+                2968.4413,
+                2977.2088,
+                2986.5731,
+                3501.0318,
+                3588.404,
+                3695.6228,
+                3716.204
+            ],
+            "name": "Harmonic vibrational frequency",
+            "units": "cm-1"
+        },
+        {
+            "scalars": 32.898,
+            "name": "Heat capacity at 298.15 K",
+            "units": "\\frac{cal}{molK}"
+        },
+        {
+            "scalars": -455.192835,
+            "name": "Internal energy at 0 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -455.183841,
+            "name": "Internal energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 74.71,
+            "name": "Isotropic polarizability",
+            "units": "\\a_0^3"
+        },
+        {
+            "name": "Mulliken partial charges",
+            "units": "e",
+            "vectors": [
+                [
+                    "N",
+                    -0.545085
+                ],
+                [
+                    "C",
+                    0.317057
+                ],
+                [
+                    "O",
+                    -0.418704
+                ],
+                [
+                    "C",
+                    0.089351
+                ],
+                [
+                    "C",
+                    0.258702
+                ],
+                [
+                    "N",
+                    -0.580649
+                ],
+                [
+                    "C",
+                    -0.143318
+                ],
+                [
+                    "O",
+                    -0.267535
+                ],
+                [
+                    "C",
+                    -0.182976
+                ],
+                [
+                    "H",
+                    0.25558
+                ],
+                [
+                    "H",
+                    0.255481
+                ],
+                [
+                    "H",
+                    0.284853
+                ],
+                [
+                    "H",
+                    0.254931
+                ],
+                [
+                    "H",
+                    0.114499
+                ],
+                [
+                    "H",
+                    0.108979
+                ],
+                [
+                    "H",
+                    0.105771
+                ],
+                [
+                    "H",
+                    0.093061
+                ]
+            ]
+        },
+        {
+            "scalars": 2.64396,
+            "name": "Rotational constant A",
+            "units": "GHz"
+        },
+        {
+            "scalars": 1.45009,
+            "name": "Rotational constant B",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.94848,
+            "name": "Rotational constant C",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.13665,
+            "name": "Zero point vibrational energy",
+            "units": "Ha"
+        },
+        {
+            "name": "coordinate",
+            "units": "\u00c5",
+            "vectors": [
+                [
+                    "N",
+                    0.0090446153,
+                    1.3548917883,
+                    0.1030385299
+                ],
+                [
+                    "C",
+                    0.0405973562,
+                    -0.0191892285,
+                    0.0272944765
+                ],
+                [
+                    "O",
+                    1.1182058407,
+                    -0.6205919348,
+                    -0.0087181614
+                ],
+                [
+                    "C",
+                    -1.2420494084,
+                    -0.7032553149,
+                    0.039345807
+                ],
+                [
+                    "C",
+                    -1.3507835993,
+                    -2.056380153,
+                    0.001478415
+                ],
+                [
+                    "N",
+                    -0.3574465887,
+                    -2.961246064,
+                    -0.1247896001
+                ],
+                [
+                    "C",
+                    -2.8043642034,
+                    -2.4412351995,
+                    0.0667551574
+                ],
+                [
+                    "O",
+                    -3.5179435579,
+                    -1.2237248846,
+                    0.1839314035
+                ],
+                [
+                    "C",
+                    -2.6222668622,
+                    -0.1082338863,
+                    0.1358792223
+                ],
+                [
+                    "H",
+                    0.886153432,
+                    1.822574707,
+                    -0.0639740754
+                ],
+                [
+                    "H",
+                    -0.8275754577,
+                    1.859725021,
+                    -0.1383085166
+                ],
+                [
+                    "H",
+                    0.5781950715,
+                    -2.5767608492,
+                    -0.0415841617
+                ],
+                [
+                    "H",
+                    -0.5201633483,
+                    -3.9250028743,
+                    0.1100578366
+                ],
+                [
+                    "H",
+                    -3.115221928,
+                    -2.989498478,
+                    -0.8373422167
+                ],
+                [
+                    "H",
+                    -3.0160166077,
+                    -3.0907750127,
+                    0.931607991
+                ],
+                [
+                    "H",
+                    -2.767799837,
+                    0.5037930508,
+                    1.0401590829
+                ],
+                [
+                    "H",
+                    -2.8883972472,
+                    0.5237323028,
+                    -0.7292848104
+                ]
+            ]
+        }
+    ]
+}{
+    "ids": [
+        {
+            "name": "InChI_B3LYP",
+            "value": "InChI=1S/C5H8N2O2/c6-4-2-7-1-3(4)5(8)9/h1-2,6-7H2"
+        },
+        {
+            "name": "InChI_Corina",
+            "value": "InChI=1S/C5H8N2O2/c6-4-2-7-1-3(4)5(8)9/h7H,1-2,6H2,(H,8,9)"
+        },
+        {
+            "name": "SMILE_B3LYP",
+            "value": "NC1=C(C[NH2]C1)C(=O)[O]"
+        },
+        {
+            "name": "SMILE_GDB-17",
+            "value": "NC1=C(C[NH2+]C1)C([O-])=O"
+        },
+        {
+            "name": "identifier",
+            "value": "54615"
+        }
+    ],
+    "chemicalFormula": "C5H8N2O2",
+    "category": "system.chemical",
+    "properties": [
+        {
+            "scalars": 14.5266,
+            "name": "Dipole moment",
+            "units": "D"
+        },
+        {
+            "scalars": 1168.9128,
+            "name": "Electronic spatial extent",
+            "units": "\\a_0^2"
+        },
+        {
+            "scalars": -0.1734,
+            "name": "Energy of HOMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -0.0214,
+            "name": "Energy of LUMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -455.118094,
+            "name": "Enthalpy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -455.160469,
+            "name": "Free energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.1521,
+            "name": "Gap (\u03f5LUMO\u2212\u03f5HOMO)",
+            "units": "Ha"
+        },
+        {
+            "scalars": [
+                82.9365,
+                118.3297,
+                177.4961,
+                194.3618,
+                254.0618,
+                319.5693,
+                417.1017,
+                464.4872,
+                518.3708,
+                527.4065,
+                606.5495,
+                688.6742,
+                770.4706,
+                783.9884,
+                792.8162,
+                879.4614,
+                892.6492,
+                913.2495,
+                965.5343,
+                1001.8339,
+                1045.884,
+                1109.5713,
+                1161.7812,
+                1205.8453,
+                1230.7746,
+                1272.1065,
+                1299.5636,
+                1340.0352,
+                1346.7008,
+                1354.4899,
+                1424.2226,
+                1498.0198,
+                1506.2823,
+                1571.0927,
+                1621.0852,
+                1716.9468,
+                1744.152,
+                3019.7505,
+                3031.6467,
+                3081.3154,
+                3127.765,
+                3153.8233,
+                3444.1617,
+                3523.4717,
+                3579.7353
+            ],
+            "name": "Harmonic vibrational frequency",
+            "units": "cm-1"
+        },
+        {
+            "scalars": 30.679,
+            "name": "Heat capacity at 298.15 K",
+            "units": "\\frac{cal}{molK}"
+        },
+        {
+            "scalars": -455.127295,
+            "name": "Internal energy at 0 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -455.119038,
+            "name": "Internal energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 75.88,
+            "name": "Isotropic polarizability",
+            "units": "\\a_0^3"
+        },
+        {
+            "name": "Mulliken partial charges",
+            "units": "e",
+            "vectors": [
+                [
+                    "N",
+                    -0.591684
+                ],
+                [
+                    "C",
+                    0.242937
+                ],
+                [
+                    "C",
+                    0.12151
+                ],
+                [
+                    "C",
+                    -0.302083
+                ],
+                [
+                    "N",
+                    -0.264602
+                ],
+                [
+                    "H",
+                    0.31386
+                ],
+                [
+                    "H",
+                    0.296945
+                ],
+                [
+                    "C",
+                    -0.29379
+                ],
+                [
+                    "C",
+                    0.310468
+                ],
+                [
+                    "O",
+                    -0.491612
+                ],
+                [
+                    "O",
+                    -0.477763
+                ],
+                [
+                    "H",
+                    0.229015
+                ],
+                [
+                    "H",
+                    0.284264
+                ],
+                [
+                    "H",
+                    0.171074
+                ],
+                [
+                    "H",
+                    0.145701
+                ],
+                [
+                    "H",
+                    0.160672
+                ],
+                [
+                    "H",
+                    0.145089
+                ]
+            ]
+        },
+        {
+            "scalars": 2.5848,
+            "name": "Rotational constant A",
+            "units": "GHz"
+        },
+        {
+            "scalars": 1.47472,
+            "name": "Rotational constant B",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.96396,
+            "name": "Rotational constant C",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.138466,
+            "name": "Zero point vibrational energy",
+            "units": "Ha"
+        },
+        {
+            "name": "coordinate",
+            "units": "\u00c5",
+            "vectors": [
+                [
+                    "N",
+                    0.0169973023,
+                    1.3702666651,
+                    -0.0281874647
+                ],
+                [
+                    "C",
+                    0.0227667516,
+                    0.0008551333,
+                    -0.0973980068
+                ],
+                [
+                    "C",
+                    -1.0699993025,
+                    -0.7858022919,
+                    -0.1376011956
+                ],
+                [
+                    "C",
+                    -0.7198253709,
+                    -2.2067069171,
+                    -0.3855803022
+                ],
+                [
+                    "N",
+                    0.7906286667,
+                    -2.2124660829,
+                    -0.0369194801
+                ],
+                [
+                    "H",
+                    0.8804047004,
+                    -2.4263177371,
+                    0.955560017
+                ],
+                [
+                    "H",
+                    1.323444999,
+                    -2.9082515041,
+                    -0.5609439365
+                ],
+                [
+                    "C",
+                    1.2907078891,
+                    -0.7987635684,
+                    -0.2809377243
+                ],
+                [
+                    "C",
+                    -2.509790054,
+                    -0.3477536403,
+                    0.1080979476
+                ],
+                [
+                    "O",
+                    -2.6536797628,
+                    0.8888262865,
+                    0.2807956562
+                ],
+                [
+                    "O",
+                    -3.3260451329,
+                    -1.2848726339,
+                    0.1255266737
+                ],
+                [
+                    "H",
+                    0.7080159256,
+                    1.7954103145,
+                    0.5761742052
+                ],
+                [
+                    "H",
+                    -0.9683230553,
+                    1.6445718793,
+                    0.1570967994
+                ],
+                [
+                    "H",
+                    -1.2488132699,
+                    -2.9156839974,
+                    0.2532818058
+                ],
+                [
+                    "H",
+                    -0.7939506112,
+                    -2.5469632043,
+                    -1.4271554335
+                ],
+                [
+                    "H",
+                    1.6974722277,
+                    -0.7557982669,
+                    -1.2988573676
+                ],
+                [
+                    "H",
+                    2.0994923871,
+                    -0.5772997447,
+                    0.4230911364
+                ]
+            ]
+        }
+    ]
+}{
+    "ids": [
+        {
+            "name": "InChI_B3LYP",
+            "value": "InChI=1S/C7H7NO/c1-2-4-3-5-6(8(2)4)7(1,3)9-5/h2-6H,1H2/t2-,3+,4-,5+,6-,7-,8?/m1/s1"
+        },
+        {
+            "name": "InChI_Corina",
+            "value": "InChI=1S/C7H7NO/c1-2-4-3-5-6(8(2)4)7(1,3)9-5/h2-6H,1H2"
+        },
+        {
+            "name": "SMILE_B3LYP",
+            "value": "C1[C@@H]2[C@@H]3[C@H]4[C@@H]5O[C@]14[C@@H]5N23"
+        },
+        {
+            "name": "SMILE_GDB-17",
+            "value": "C1C2C3C4C5OC14C5N23"
+        },
+        {
+            "name": "identifier",
+            "value": "133881"
+        }
+    ],
+    "chemicalFormula": "C7H7N1O1",
+    "category": "system.chemical",
+    "properties": [
+        {
+            "scalars": 1.6637,
+            "name": "Dipole moment",
+            "units": "D"
+        },
+        {
+            "scalars": 760.7472,
+            "name": "Electronic spatial extent",
+            "units": "\\a_0^2"
+        },
+        {
+            "scalars": -0.2254,
+            "name": "Energy of HOMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.0588,
+            "name": "Energy of LUMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -400.627654,
+            "name": "Enthalpy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -400.663098,
+            "name": "Free energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.2842,
+            "name": "Gap (\u03f5LUMO\u2212\u03f5HOMO)",
+            "units": "Ha"
+        },
+        {
+            "scalars": [
+                375.8747,
+                432.1601,
+                459.6122,
+                499.6894,
+                645.2951,
+                694.666,
+                735.6509,
+                751.4789,
+                754.3603,
+                780.3247,
+                828.7542,
+                853.7915,
+                888.8193,
+                916.5596,
+                924.9746,
+                959.1648,
+                997.5366,
+                1005.2141,
+                1014.0954,
+                1028.9494,
+                1053.4696,
+                1079.3393,
+                1102.0033,
+                1143.5425,
+                1166.6844,
+                1182.1738,
+                1199.3914,
+                1216.7771,
+                1238.0566,
+                1247.0783,
+                1256.9161,
+                1315.2951,
+                1338.6912,
+                1370.1409,
+                1483.1167,
+                3066.1322,
+                3118.1864,
+                3121.7292,
+                3152.6179,
+                3155.6274,
+                3177.1937,
+                3193.6875
+            ],
+            "name": "Harmonic vibrational frequency",
+            "units": "cm-1"
+        },
+        {
+            "scalars": 23.658,
+            "name": "Heat capacity at 298.15 K",
+            "units": "\\frac{cal}{molK}"
+        },
+        {
+            "scalars": -400.633868,
+            "name": "Internal energy at 0 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -400.628599,
+            "name": "Internal energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 69.37,
+            "name": "Isotropic polarizability",
+            "units": "\\a_0^3"
+        },
+        {
+            "name": "Mulliken partial charges",
+            "units": "e",
+            "vectors": [
+                [
+                    "C",
+                    -0.370537
+                ],
+                [
+                    "C",
+                    -0.030264
+                ],
+                [
+                    "C",
+                    -0.083046
+                ],
+                [
+                    "C",
+                    -0.07466
+                ],
+                [
+                    "C",
+                    -0.006483
+                ],
+                [
+                    "O",
+                    -0.395653
+                ],
+                [
+                    "C",
+                    0.409188
+                ],
+                [
+                    "C",
+                    -0.022019
+                ],
+                [
+                    "N",
+                    -0.151437
+                ],
+                [
+                    "H",
+                    0.122699
+                ],
+                [
+                    "H",
+                    0.124873
+                ],
+                [
+                    "H",
+                    0.103488
+                ],
+                [
+                    "H",
+                    0.098415
+                ],
+                [
+                    "H",
+                    0.086989
+                ],
+                [
+                    "H",
+                    0.098167
+                ],
+                [
+                    "H",
+                    0.09028
+                ]
+            ]
+        },
+        {
+            "scalars": 3.59483,
+            "name": "Rotational constant A",
+            "units": "GHz"
+        },
+        {
+            "scalars": 2.19899,
+            "name": "Rotational constant B",
+            "units": "GHz"
+        },
+        {
+            "scalars": 1.90423,
+            "name": "Rotational constant C",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.127406,
+            "name": "Zero point vibrational energy",
+            "units": "Ha"
+        },
+        {
+            "name": "coordinate",
+            "units": "\u00c5",
+            "vectors": [
+                [
+                    "C",
+                    1.2387316143,
+                    -0.5095880645,
+                    1.1804370408
+                ],
+                [
+                    "C",
+                    1.5631878609,
+                    0.7717117314,
+                    0.3576875877
+                ],
+                [
+                    "C",
+                    0.3232770315,
+                    1.5899314666,
+                    0.1031162293
+                ],
+                [
+                    "C",
+                    -0.8448943322,
+                    0.7641537038,
+                    0.5832909118
+                ],
+                [
+                    "C",
+                    -1.4700643709,
+                    -0.1405654798,
+                    -0.5140116681
+                ],
+                [
+                    "O",
+                    -1.4013627806,
+                    -1.3394452636,
+                    0.4066309115
+                ],
+                [
+                    "C",
+                    -0.1359858891,
+                    -0.6158862455,
+                    0.5694010758
+                ],
+                [
+                    "C",
+                    -8.86092e-05,
+                    -0.3917672075,
+                    -0.9421913342
+                ],
+                [
+                    "N",
+                    0.8923932767,
+                    0.7764887508,
+                    -0.9997091302
+                ],
+                [
+                    "H",
+                    1.260552817,
+                    -0.3093649687,
+                    2.2548253079
+                ],
+                [
+                    "H",
+                    1.9121032905,
+                    -1.336162232,
+                    0.9397839034
+                ],
+                [
+                    "H",
+                    2.5523250791,
+                    1.2123052141,
+                    0.3964272765
+                ],
+                [
+                    "H",
+                    0.3296999704,
+                    2.668093509,
+                    -0.0068521548
+                ],
+                [
+                    "H",
+                    -1.4354782805,
+                    1.0481387244,
+                    1.4510436825
+                ],
+                [
+                    "H",
+                    -2.3928316825,
+                    -0.0520839786,
+                    -1.0873938428
+                ],
+                [
+                    "H",
+                    0.2432894946,
+                    -1.22096091,
+                    -1.6024776172
+                ]
+            ]
+        }
+    ]
+}{
+    "ids": [
+        {
+            "name": "InChI_B3LYP",
+            "value": "InChI=1S/C7H7NO/c1-7-2-4-5(8(1)4)3(7)6(2)9-7/h2-6H,1H2/t2-,3+,4+,5-,6-,7+,8?"
+        },
+        {
+            "name": "InChI_Corina",
+            "value": "InChI=1S/C7H7NO/c1-7-2-4-5(8(1)4)3(7)6(2)9-7/h2-6H,1H2"
+        },
+        {
+            "name": "SMILE_B3LYP",
+            "value": "C1N2[C@H]3[C@@H]2[C@@H]2[C@H]4O[C@@]12[C@@H]34"
+        },
+        {
+            "name": "SMILE_GDB-17",
+            "value": "C1N2C3C2C2C4OC12C34"
+        },
+        {
+            "name": "identifier",
+            "value": "133882"
+        }
+    ],
+    "chemicalFormula": "C7H7N1O1",
+    "category": "system.chemical",
+    "properties": [
+        {
+            "scalars": 1.2976,
+            "name": "Dipole moment",
+            "units": "D"
+        },
+        {
+            "scalars": 762.6354,
+            "name": "Electronic spatial extent",
+            "units": "\\a_0^2"
+        },
+        {
+            "scalars": -0.2393,
+            "name": "Energy of HOMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.0608,
+            "name": "Energy of LUMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -400.6235,
+            "name": "Enthalpy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -400.658942,
+            "name": "Free energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.3002,
+            "name": "Gap (\u03f5LUMO\u2212\u03f5HOMO)",
+            "units": "Ha"
+        },
+        {
+            "scalars": [
+                388.7314,
+                414.4912,
+                475.5419,
+                508.6855,
+                639.4194,
+                702.3299,
+                732.7252,
+                744.4865,
+                756.5498,
+                775.2884,
+                795.9436,
+                830.1466,
+                880.5902,
+                921.2992,
+                951.1044,
+                966.458,
+                967.4809,
+                990.5595,
+                1013.6576,
+                1024.9313,
+                1056.4348,
+                1088.9717,
+                1112.8536,
+                1135.478,
+                1178.9642,
+                1185.3193,
+                1206.7505,
+                1207.9506,
+                1252.2263,
+                1265.0536,
+                1272.8901,
+                1306.4778,
+                1316.6302,
+                1385.7754,
+                1491.0324,
+                3074.7395,
+                3109.9598,
+                3133.9017,
+                3151.0751,
+                3153.4139,
+                3193.8111,
+                3203.8004
+            ],
+            "name": "Harmonic vibrational frequency",
+            "units": "cm-1"
+        },
+        {
+            "scalars": 23.697,
+            "name": "Heat capacity at 298.15 K",
+            "units": "\\frac{cal}{molK}"
+        },
+        {
+            "scalars": -400.629713,
+            "name": "Internal energy at 0 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -400.624444,
+            "name": "Internal energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 69.52,
+            "name": "Isotropic polarizability",
+            "units": "\\a_0^3"
+        },
+        {
+            "name": "Mulliken partial charges",
+            "units": "e",
+            "vectors": [
+                [
+                    "C",
+                    -0.263379
+                ],
+                [
+                    "N",
+                    -0.147911
+                ],
+                [
+                    "C",
+                    -0.073215
+                ],
+                [
+                    "C",
+                    -0.073214
+                ],
+                [
+                    "C",
+                    -0.071842
+                ],
+                [
+                    "C",
+                    -0.012281
+                ],
+                [
+                    "O",
+                    -0.395838
+                ],
+                [
+                    "C",
+                    0.38661
+                ],
+                [
+                    "C",
+                    -0.071842
+                ],
+                [
+                    "H",
+                    0.124212
+                ],
+                [
+                    "H",
+                    0.124211
+                ],
+                [
+                    "H",
+                    0.100257
+                ],
+                [
+                    "H",
+                    0.100257
+                ],
+                [
+                    "H",
+                    0.088003
+                ],
+                [
+                    "H",
+                    0.097971
+                ],
+                [
+                    "H",
+                    0.088003
+                ]
+            ]
+        },
+        {
+            "scalars": 3.65648,
+            "name": "Rotational constant A",
+            "units": "GHz"
+        },
+        {
+            "scalars": 2.14237,
+            "name": "Rotational constant B",
+            "units": "GHz"
+        },
+        {
+            "scalars": 1.90439,
+            "name": "Rotational constant C",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.127495,
+            "name": "Zero point vibrational energy",
+            "units": "Ha"
+        },
+        {
+            "name": "coordinate",
+            "units": "\u00c5",
+            "vectors": [
+                [
+                    "C",
+                    0.7295695565,
+                    -0.5677007277,
+                    -1.4352392147
+                ],
+                [
+                    "N",
+                    1.3814421352,
+                    0.6959240999,
+                    -0.9596524438
+                ],
+                [
+                    "C",
+                    1.2959827707,
+                    0.7510146376,
+                    0.548213524
+                ],
+                [
+                    "C",
+                    0.3443882116,
+                    1.5480118744,
+                    -0.2650564893
+                ],
+                [
+                    "C",
+                    -0.9295348736,
+                    0.7480796599,
+                    -0.1433132204
+                ],
+                [
+                    "C",
+                    -1.0882166898,
+                    -0.0913621569,
+                    1.1585212308
+                ],
+                [
+                    "O",
+                    -1.4218312068,
+                    -1.3175987972,
+                    0.3471813298
+                ],
+                [
+                    "C",
+                    -0.2923104883,
+                    -0.6517136302,
+                    -0.321893527
+                ],
+                [
+                    "C",
+                    0.43318235,
+                    -0.3932468661,
+                    1.0213219675
+                ],
+                [
+                    "H",
+                    1.4658986269,
+                    -1.3740118708,
+                    -1.4502778045
+                ],
+                [
+                    "H",
+                    0.3155210621,
+                    -0.4105272874,
+                    -2.4334400466
+                ],
+                [
+                    "H",
+                    2.1543505386,
+                    1.1554529756,
+                    1.0685338587
+                ],
+                [
+                    "H",
+                    0.4096872999,
+                    2.6166743167,
+                    -0.4225217593
+                ],
+                [
+                    "H",
+                    -1.8178439842,
+                    0.9870616601,
+                    -0.7233885769
+                ],
+                [
+                    "H",
+                    -1.7160548826,
+                    0.0564419918,
+                    2.0379885413
+                ],
+                [
+                    "H",
+                    0.8477499238,
+                    -1.2454761498,
+                    1.5547372104
+                ]
+            ]
+        }
+    ]
+}{
+    "ids": [
+        {
+            "name": "InChI_B3LYP",
+            "value": "InChI=1S/C7H8N2/c1-7-2-9-5(7)3-4(6(7)9)8(1)3/h3-6H,1-2H2/t3-,4+,5+,6-,7+,8?"
+        },
+        {
+            "name": "InChI_Corina",
+            "value": "InChI=1S/C7H8N2/c1-7-2-9-5(7)3-4(6(7)9)8(1)3/h3-6H,1-2H2"
+        },
+        {
+            "name": "SMILE_B3LYP",
+            "value": "C1N2[C@@H]3[C@@H]4[C@@H]5[C@H]2[C@]13CN45"
+        },
+        {
+            "name": "SMILE_GDB-17",
+            "value": "C1N2C3C4C5C2C13CN45"
+        },
+        {
+            "name": "identifier",
+            "value": "133883"
+        }
+    ],
+    "chemicalFormula": "C7H8N2",
+    "category": "system.chemical",
+    "properties": [
+        {
+            "scalars": 1.248,
+            "name": "Dipole moment",
+            "units": "D"
+        },
+        {
+            "scalars": 780.3553,
+            "name": "Electronic spatial extent",
+            "units": "\\a_0^2"
+        },
+        {
+            "scalars": -0.2233,
+            "name": "Energy of HOMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.072,
+            "name": "Energy of LUMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -380.747675,
+            "name": "Enthalpy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -380.783148,
+            "name": "Free energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.2953,
+            "name": "Gap (\u03f5LUMO\u2212\u03f5HOMO)",
+            "units": "Ha"
+        },
+        {
+            "scalars": [
+                389.4091,
+                420.3117,
+                438.4436,
+                497.8571,
+                646.6138,
+                724.0857,
+                737.6512,
+                761.0649,
+                779.5447,
+                808.0174,
+                812.511,
+                821.3393,
+                893.9067,
+                909.5319,
+                919.176,
+                956.9649,
+                961.4565,
+                989.7561,
+                1020.7991,
+                1031.816,
+                1063.3026,
+                1065.0075,
+                1107.4636,
+                1116.35,
+                1133.5311,
+                1180.4606,
+                1189.7507,
+                1207.2351,
+                1228.69,
+                1260.4275,
+                1265.5584,
+                1283.9167,
+                1300.6522,
+                1302.0044,
+                1375.2702,
+                1488.8157,
+                1526.4891,
+                3059.3907,
+                3066.6964,
+                3120.7674,
+                3122.9775,
+                3123.9608,
+                3127.2215,
+                3203.8681,
+                3213.942
+            ],
+            "name": "Harmonic vibrational frequency",
+            "units": "cm-1"
+        },
+        {
+            "scalars": 23.972,
+            "name": "Heat capacity at 298.15 K",
+            "units": "\\frac{cal}{molK}"
+        },
+        {
+            "scalars": -380.753918,
+            "name": "Internal energy at 0 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -380.748619,
+            "name": "Internal energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 73.6,
+            "name": "Isotropic polarizability",
+            "units": "\\a_0^3"
+        },
+        {
+            "name": "Mulliken partial charges",
+            "units": "e",
+            "vectors": [
+                [
+                    "C",
+                    -0.271161
+                ],
+                [
+                    "N",
+                    -0.182963
+                ],
+                [
+                    "C",
+                    -0.001808
+                ],
+                [
+                    "C",
+                    -0.070088
+                ],
+                [
+                    "C",
+                    -0.070086
+                ],
+                [
+                    "C",
+                    -0.00181
+                ],
+                [
+                    "C",
+                    0.223718
+                ],
+                [
+                    "C",
+                    -0.281394
+                ],
+                [
+                    "N",
+                    -0.140053
+                ],
+                [
+                    "H",
+                    0.107796
+                ],
+                [
+                    "H",
+                    0.107797
+                ],
+                [
+                    "H",
+                    0.074936
+                ],
+                [
+                    "H",
+                    0.100394
+                ],
+                [
+                    "H",
+                    0.100394
+                ],
+                [
+                    "H",
+                    0.074936
+                ],
+                [
+                    "H",
+                    0.114697
+                ],
+                [
+                    "H",
+                    0.114697
+                ]
+            ]
+        },
+        {
+            "scalars": 3.67118,
+            "name": "Rotational constant A",
+            "units": "GHz"
+        },
+        {
+            "scalars": 2.14314,
+            "name": "Rotational constant B",
+            "units": "GHz"
+        },
+        {
+            "scalars": 1.89501,
+            "name": "Rotational constant C",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.140458,
+            "name": "Zero point vibrational energy",
+            "units": "Ha"
+        },
+        {
+            "name": "coordinate",
+            "units": "\u00c5",
+            "vectors": [
+                [
+                    "C",
+                    -1.181901877,
+                    1.4150478018,
+                    0.8762715211
+                ],
+                [
+                    "N",
+                    -0.6525720783,
+                    0.2063189382,
+                    1.6765498994
+                ],
+                [
+                    "C",
+                    -0.8982145647,
+                    -0.6163668864,
+                    0.3712696049
+                ],
+                [
+                    "C",
+                    0.2240882921,
+                    -1.5624298004,
+                    0.015560722
+                ],
+                [
+                    "C",
+                    1.3967197529,
+                    -0.7640488836,
+                    0.4458246531
+                ],
+                [
+                    "C",
+                    0.7094932878,
+                    0.4782351417,
+                    0.9611715059
+                ],
+                [
+                    "C",
+                    -0.3025824197,
+                    0.6936103979,
+                    -0.1814811405
+                ],
+                [
+                    "C",
+                    0.4022592512,
+                    0.3595439736,
+                    -1.4825794837
+                ],
+                [
+                    "N",
+                    1.0870674939,
+                    -0.8982504423,
+                    -1.0150329647
+                ],
+                [
+                    "H",
+                    -0.8374667962,
+                    2.377277772,
+                    1.2627140787
+                ],
+                [
+                    "H",
+                    -2.2657871263,
+                    1.4047922947,
+                    0.7386219398
+                ],
+                [
+                    "H",
+                    -1.9372167631,
+                    -0.8921966528,
+                    0.1931662176
+                ],
+                [
+                    "H",
+                    0.1671574453,
+                    -2.6423463704,
+                    0.0035462602
+                ],
+                [
+                    "H",
+                    2.3366679754,
+                    -1.1652468499,
+                    0.7995791618
+                ],
+                [
+                    "H",
+                    1.2875166663,
+                    1.3033443565,
+                    1.3763959914
+                ],
+                [
+                    "H",
+                    1.1605985024,
+                    1.0787727912,
+                    -1.8016472498
+                ],
+                [
+                    "H",
+                    -0.2547087419,
+                    0.1151792281,
+                    -2.3209413272
+                ]
+            ]
+        }
+    ]
+}{
+    "ids": [
+        {
+            "name": "InChI_B3LYP",
+            "value": "InChI=1S/C8H9N/c1-3-4-5(3)7-8(1)2-9(7)6(4)8/h3-7H,1-2H2/t3-,4+,5-,6-,7+,8-"
+        },
+        {
+            "name": "InChI_Corina",
+            "value": "InChI=1S/C8H9N/c1-3-4-5(3)7-8(1)2-9(7)6(4)8/h3-7H,1-2H2"
+        },
+        {
+            "name": "SMILE_B3LYP",
+            "value": "C1N2[C@H]3[C@@H]4[C@@H]5C[C@]13[C@H]2[C@H]45"
+        },
+        {
+            "name": "SMILE_GDB-17",
+            "value": "C1N2C3C4C5CC13C2C45"
+        },
+        {
+            "name": "identifier",
+            "value": "133884"
+        }
+    ],
+    "chemicalFormula": "C8H9N1",
+    "category": "system.chemical",
+    "properties": [
+        {
+            "scalars": 1.9576,
+            "name": "Dipole moment",
+            "units": "D"
+        },
+        {
+            "scalars": 803.1904,
+            "name": "Electronic spatial extent",
+            "units": "\\a_0^2"
+        },
+        {
+            "scalars": -0.2122,
+            "name": "Energy of HOMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.0881,
+            "name": "Energy of LUMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -364.71403,
+            "name": "Enthalpy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -364.74965,
+            "name": "Free energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.3003,
+            "name": "Gap (\u03f5LUMO\u2212\u03f5HOMO)",
+            "units": "Ha"
+        },
+        {
+            "scalars": [
+                378.0589,
+                429.0983,
+                433.1902,
+                486.9586,
+                645.1455,
+                716.5065,
+                722.472,
+                735.6193,
+                794.8153,
+                806.1093,
+                814.3845,
+                821.9373,
+                886.6706,
+                888.6213,
+                924.4519,
+                942.568,
+                946.7356,
+                996.2206,
+                1003.9153,
+                1012.4534,
+                1026.8894,
+                1057.0885,
+                1063.3832,
+                1073.9241,
+                1103.2423,
+                1107.0047,
+                1122.3298,
+                1182.0527,
+                1203.2927,
+                1214.8976,
+                1253.5174,
+                1260.0726,
+                1265.2929,
+                1308.2775,
+                1313.1766,
+                1321.8257,
+                1380.3433,
+                1485.1118,
+                1527.4906,
+                3050.5165,
+                3052.8393,
+                3101.2196,
+                3109.5391,
+                3113.4058,
+                3117.7399,
+                3190.1992,
+                3208.3625,
+                3218.8438
+            ],
+            "name": "Harmonic vibrational frequency",
+            "units": "cm-1"
+        },
+        {
+            "scalars": 24.796,
+            "name": "Heat capacity at 298.15 K",
+            "units": "\\frac{cal}{molK}"
+        },
+        {
+            "scalars": -364.720374,
+            "name": "Internal energy at 0 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -364.714974,
+            "name": "Internal energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 77.4,
+            "name": "Isotropic polarizability",
+            "units": "\\a_0^3"
+        },
+        {
+            "name": "Mulliken partial charges",
+            "units": "e",
+            "vectors": [
+                [
+                    "C",
+                    -0.276248
+                ],
+                [
+                    "N",
+                    -0.189456
+                ],
+                [
+                    "C",
+                    0.010043
+                ],
+                [
+                    "C",
+                    -0.09719
+                ],
+                [
+                    "C",
+                    -0.064218
+                ],
+                [
+                    "C",
+                    -0.367733
+                ],
+                [
+                    "C",
+                    0.255121
+                ],
+                [
+                    "C",
+                    0.010045
+                ],
+                [
+                    "C",
+                    -0.097191
+                ],
+                [
+                    "H",
+                    0.101844
+                ],
+                [
+                    "H",
+                    0.101845
+                ],
+                [
+                    "H",
+                    0.067157
+                ],
+                [
+                    "H",
+                    0.090746
+                ],
+                [
+                    "H",
+                    0.087616
+                ],
+                [
+                    "H",
+                    0.104858
+                ],
+                [
+                    "H",
+                    0.104858
+                ],
+                [
+                    "H",
+                    0.067157
+                ],
+                [
+                    "H",
+                    0.090746
+                ]
+            ]
+        },
+        {
+            "scalars": 3.52845,
+            "name": "Rotational constant A",
+            "units": "GHz"
+        },
+        {
+            "scalars": 2.15131,
+            "name": "Rotational constant B",
+            "units": "GHz"
+        },
+        {
+            "scalars": 1.86582,
+            "name": "Rotational constant C",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.152222,
+            "name": "Zero point vibrational energy",
+            "units": "Ha"
+        },
+        {
+            "name": "coordinate",
+            "units": "\u00c5",
+            "vectors": [
+                [
+                    "C",
+                    -1.4356329845,
+                    1.3632549748,
+                    0.3109822505
+                ],
+                [
+                    "N",
+                    -1.5711001245,
+                    0.0479323894,
+                    -0.4917260419
+                ],
+                [
+                    "C",
+                    -0.7508495778,
+                    -0.602181612,
+                    0.6659322881
+                ],
+                [
+                    "C",
+                    0.3269783865,
+                    -1.5541946201,
+                    0.205660736
+                ],
+                [
+                    "C",
+                    1.6298648183,
+                    -0.7472361702,
+                    0.2352616838
+                ],
+                [
+                    "C",
+                    1.4159466411,
+                    0.6207733578,
+                    0.9391218822
+                ],
+                [
+                    "C",
+                    -0.0270756502,
+                    0.7470325871,
+                    0.4785062501
+                ],
+                [
+                    "C",
+                    -0.1319009621,
+                    0.3569828439,
+                    -1.0101961376
+                ],
+                [
+                    "C",
+                    0.7877559006,
+                    -0.840138012,
+                    -1.0421517176
+                ],
+                [
+                    "H",
+                    -2.0897361482,
+                    1.4068204728,
+                    1.185940245
+                ],
+                [
+                    "H",
+                    -1.5389938925,
+                    2.260261561,
+                    -0.3054563045
+                ],
+                [
+                    "H",
+                    -1.3267847124,
+                    -0.8142717778,
+                    1.5672992102
+                ],
+                [
+                    "H",
+                    0.2996235311,
+                    -2.6302182602,
+                    0.3055596003
+                ],
+                [
+                    "H",
+                    2.582409188,
+                    -1.2601381761,
+                    0.2934990652
+                ],
+                [
+                    "H",
+                    2.0875373572,
+                    1.3914887643,
+                    0.5486871262
+                ],
+                [
+                    "H",
+                    1.5429179552,
+                    0.5474869607,
+                    2.0235500248
+                ],
+                [
+                    "H",
+                    -0.0845308059,
+                    1.1108067249,
+                    -1.7967407801
+                ],
+                [
+                    "H",
+                    1.1265498803,
+                    -1.3487328984,
+                    -1.9338383806
+                ]
+            ]
+        }
+    ]
+}{
+    "ids": [
+        {
+            "name": "InChI_B3LYP",
+            "value": "InChI=1S/C7H7NO/c1-7-5-2-3(4(2)9-7)6(7)8(1)5/h2-6H,1H2/t2-,3+,4-,5-,6+,7+"
+        },
+        {
+            "name": "InChI_Corina",
+            "value": "InChI=1S/C7H7NO/c1-7-5-2-3(4(2)9-7)6(7)8(1)5/h2-6H,1H2"
+        },
+        {
+            "name": "SMILE_B3LYP",
+            "value": "C1N2[C@H]3[C@@H]4[C@@H]5O[C@]13[C@H]2[C@H]45"
+        },
+        {
+            "name": "SMILE_GDB-17",
+            "value": "C1N2C3C4C5OC13C2C45"
+        },
+        {
+            "name": "identifier",
+            "value": "133885"
+        }
+    ],
+    "chemicalFormula": "C7H7N1O1",
+    "category": "system.chemical",
+    "properties": [
+        {
+            "scalars": 0.8626,
+            "name": "Dipole moment",
+            "units": "D"
+        },
+        {
+            "scalars": 756.3557,
+            "name": "Electronic spatial extent",
+            "units": "\\a_0^2"
+        },
+        {
+            "scalars": -0.2316,
+            "name": "Energy of HOMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.0742,
+            "name": "Energy of LUMO",
+            "units": "Ha"
+        },
+        {
+            "scalars": -400.626948,
+            "name": "Enthalpy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -400.662186,
+            "name": "Free energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 0.3058,
+            "name": "Gap (\u03f5LUMO\u2212\u03f5HOMO)",
+            "units": "Ha"
+        },
+        {
+            "scalars": [
+                408.8864,
+                439.1146,
+                500.3693,
+                558.0486,
+                652.8901,
+                723.1621,
+                739.2965,
+                757.4736,
+                778.1276,
+                797.353,
+                824.645,
+                825.2626,
+                872.1001,
+                910.6316,
+                934.1006,
+                956.0049,
+                965.0061,
+                1005.1019,
+                1024.2109,
+                1024.805,
+                1047.2603,
+                1065.1043,
+                1091.2577,
+                1092.3114,
+                1106.3375,
+                1135.3894,
+                1170.3053,
+                1218.3545,
+                1257.5381,
+                1258.7883,
+                1297.035,
+                1310.0921,
+                1317.2746,
+                1371.6167,
+                1524.7273,
+                3069.913,
+                3137.7169,
+                3141.2027,
+                3142.4297,
+                3216.7502,
+                3222.0716,
+                3235.023
+            ],
+            "name": "Harmonic vibrational frequency",
+            "units": "cm-1"
+        },
+        {
+            "scalars": 23.434,
+            "name": "Heat capacity at 298.15 K",
+            "units": "\\frac{cal}{molK}"
+        },
+        {
+            "scalars": -400.633052,
+            "name": "Internal energy at 0 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": -400.627892,
+            "name": "Internal energy at 298.15 K",
+            "units": "Ha"
+        },
+        {
+            "scalars": 69.48,
+            "name": "Isotropic polarizability",
+            "units": "\\a_0^3"
+        },
+        {
+            "name": "Mulliken partial charges",
+            "units": "e",
+            "vectors": [
+                [
+                    "C",
+                    -0.252528
+                ],
+                [
+                    "N",
+                    -0.185807
+                ],
+                [
+                    "C",
+                    -0.030061
+                ],
+                [
+                    "C",
+                    -0.142815
+                ],
+                [
+                    "C",
+                    0.042767
+                ],
+                [
+                    "O",
+                    -0.317095
+                ],
+                [
+                    "C",
+                    0.358968
+                ],
+                [
+                    "C",
+                    -0.030059
+                ],
+                [
+                    "C",
+                    -0.142816
+                ],
+                [
+                    "H",
+                    0.115239
+                ],
+                [
+                    "H",
+                    0.11524
+                ],
+                [
+                    "H",
+                    0.078144
+                ],
+                [
+                    "H",
+                    0.099332
+                ],
+                [
+                    "H",
+                    0.114018
+                ],
+                [
+                    "H",
+                    0.078144
+                ],
+                [
+                    "H",
+                    0.099331
+                ]
+            ]
+        },
+        {
+            "scalars": 3.64015,
+            "name": "Rotational constant A",
+            "units": "GHz"
+        },
+        {
+            "scalars": 2.21764,
+            "name": "Rotational constant B",
+            "units": "GHz"
+        },
+        {
+            "scalars": 1.93793,
+            "name": "Rotational constant C",
+            "units": "GHz"
+        },
+        {
+            "scalars": 0.127862,
+            "name": "Zero point vibrational energy",
+            "units": "Ha"
+        },
+        {
+            "name": "coordinate",
+            "units": "\u00c5",
+            "vectors": [
+                [
+                    "C",
+                    -1.4098766039,
+                    1.3373373609,
+                    0.4099526107
+                ],
+                [
+                    "N",
+                    -1.5645935686,
+                    0.0991248506,
+                    -0.5169414085
+                ],
+                [
+                    "C",
+                    -0.8328987002,
+                    -0.7075502499,
+                    0.6042954267
+                ],
+                [
+                    "C",
+                    0.2710295071,
+                    -1.6186138429,
+                    0.1448045117
+                ],
+                [
+                    "C",
+                    1.5284535968,
+                    -0.7551229418,
+                    0.3395081289
+                ],
+                [
+                    "O",
+                    1.2502128073,
+                    0.4586399968,
+                    1.0471189507
+                ],
+                [
+                    "C",
+                    -0.0573999238,
+                    0.6112101834,
+                    0.5411015062
+                ],
+                [
+                    "C",
+                    -0.0959285633,
+                    0.3804239493,
+                    -0.9720975179
+                ],
+                [
+                    "C",
+                    0.8166944813,
+                    -0.8130667666,
+                    -1.0223596478
+                ],
+                [
+                    "H",
+                    -2.0904360778,
+                    1.3270660878,
+                    1.2636607576
+                ],
+                [
+                    "H",
+                    -1.4400420103,
+                    2.2872179783,
+                    -0.1275429128
+                ],
+                [
+                    "H",
+                    -1.4540044954,
+                    -0.9673087774,
+                    1.4592464484
+                ],
+                [
+                    "H",
+                    0.2777789004,
+                    -2.6978723974,
+                    0.1957699995
+                ],
+                [
+                    "H",
+                    2.5158540612,
+                    -1.1517837735,
+                    0.5273692559
+                ],
+                [
+                    "H",
+                    0.0136988019,
+                    1.1994305695,
+                    -1.6801923032
+                ],
+                [
+                    "H",
+                    1.2607453273,
+                    -1.246753647,
+                    -1.9067671561
+                ]
+            ]
+        }
+    ]
+}
