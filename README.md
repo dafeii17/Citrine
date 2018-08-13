@@ -3,7 +3,8 @@
 ## About
 
 How to run the program:
-1. Specify input directory, which contains all *.xyz files;
+1. Specify input directory, which contains all *.xyz files 
+(download from [https://figshare.com/articles/Data_for_6095_constitutional_isomers_of_C7H10O2/1057646](https://figshare.com/articles/Data_for_6095_constitutional_isomers_of_C7H10O2/1057646))
 2. Specify output json file path;
 3. Run df_pif.py
 
