@@ -2,7 +2,10 @@
 
 ## About
 
-write something about 
+How to run the program:
+1. Specify input directory, which contains all *.xyz files;
+2. Specify output json file path;
+3. Run df_pif.py
 
 ## Example
 
