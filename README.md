@@ -1,5 +1,9 @@
 # Citrine
 
+This project is to simulate the task at the Data Engineering team at Citrine. It transforms large scale raw materials' physical properties data into the Physical Information File format (PIF): http://citrine.io/pif
+
+This ingester program extracts materials properties from raw *.xyz txt file, then transforms it into Python pandas dataframe, then into the PIF format.  
+
 ## About
 
 How to run the program:
